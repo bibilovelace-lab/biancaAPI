@@ -1,0 +1,28 @@
+# Ambientes virtuais
+myenv/
+venv/
+.venv/
+env/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Arquivos de IDE/editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Sistema operacional
+Thumbs.db
+.DS_Store
+
+# Claude Code local
+.claude/
+
+# Arquivos auxiliares (nao versionados)
+gerar_pdf.py
+*.pdf
